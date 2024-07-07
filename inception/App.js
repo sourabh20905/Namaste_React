@@ -15,4 +15,4 @@ console.log(parent);
 // const heading = React.createElement("h1",{id:"heading"},"Hello From react"); //{}-> attributes to the tag
 //   const root = ReactDOM.createRoot(document.getElementById("root"));
 //   root.render(heading);
-
+ 

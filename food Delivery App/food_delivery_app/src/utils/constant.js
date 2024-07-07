@@ -1,0 +1,2 @@
+export const LOGO_URL = "https://static.vecteezy.com/system/resources/previews/018/731/268/original/modern-food-company-logo-design-template-home-made-food-logo-template-typographic-food-logo-design-creative-food-word-logo-design-cooking-typographic-design-vector.jpg";
+export const IMG_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";

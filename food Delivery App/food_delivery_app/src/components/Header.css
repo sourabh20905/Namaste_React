@@ -1,0 +1,15 @@
+.Header{
+  display: flex;
+}
+.logo{
+  width: 150px;
+  height: 150px;
+}
+.nav-items > ul {
+  display: flex;
+}
+
+.nav-items > ul > li{
+  padding: 10px;
+  margin: 10px;
+}

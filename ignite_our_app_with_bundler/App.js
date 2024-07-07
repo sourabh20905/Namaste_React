@@ -19,3 +19,8 @@ console.log(parent);
 //   const root = ReactDOM.createRoot(document.getElementById("root"));
 //   root.render(heading);
 
+const heading = <h1>Namaste react 🚀</h1>;
+const roott = ReactDOM.createRoot(document.getElementById("root"));
+roott.render(heading);
+
+
